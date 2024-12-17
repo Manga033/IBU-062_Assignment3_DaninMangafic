@@ -8,3 +8,5 @@ Laptop0 - Laptop-PT / IP Address: 168.90.0.5
 Server1 - Server-PT / IP Address: 210.3.14.2
 Server2 - Server-PT / IP Address: 210.3.14.3
 PC2- PC-PT / IP Address: 210.3.14.4
+PC3 - PC-PT / IP Address: 168.90.0.6
+PC4 - PC-PT / IP Address: 210.3.14.5
